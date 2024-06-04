@@ -1,4 +1,4 @@
-![Cloudflare DNS Güncelleyici Logo](https://github.com/kullanıcıadınız/repoadı/blob/main/assets/cksdebk.jpg)
+![Cloudflare DNS Güncelleyici Logo](https://github.com/HasakiR10/CloudFlareBulkDNSUpdater/blob/main/assets/cksdebk.jpg)
 # Cloudflare DNS Güncelleyici
 
 Bu depo, Cloudflare'daki DNS kayıtlarını güncellemek için güçlü ve verimli bir araç içermektedir. Kullanım kolaylığı ve sağlam işlevsellik odaklı olarak tasarlanan bu araç, kullanıcıların DNS A kayıtlarını zahmetsizce güncellemelerini sağlar ve alan adlarının her zaman doğru IP adresine işaret ettiğinden emin olur.
