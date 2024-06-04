@@ -25,27 +25,7 @@ Bu depo, Cloudflare'daki DNS kayıtlarını güncellemek için güçlü ve verim
     cd CloudFlareBulkDNSUpdater
     ```
 
-2. Bağımlılıkları yükleyin:
-
-    ```sh
-    dotnet restore
-    ```
-
-### Kullanım
-
-1. Projeyi derleyin:
-
-    ```sh
-    dotnet build
-    ```
-
-2. Uygulamayı çalıştırın:
-
-    ```sh
-    dotnet run
-    ```
-
-3. Cloudflare API jetonunuzu, yeni IP adresinizi ve tüm A kayıtlarını mı yoksa sadece kök kayıtları mı güncellemek istediğinizi girmeniz istenecektir.
+2. Cloudflare API jetonunuzu, yeni IP adresinizi ve tüm A kayıtlarını mı yoksa sadece kök kayıtları mı güncellemek istediğinizi girmeniz istenecektir.
 
 ### Örnek
 
